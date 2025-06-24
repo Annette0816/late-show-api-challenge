@@ -1,4 +1,3 @@
-
 from models import db
 
 class Guest(db.Model):
